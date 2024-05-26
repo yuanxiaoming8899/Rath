@@ -1,238 +1,375 @@
-![](https://docs-us.oss-us-west-1.aliyuncs.com/images/readme/rath-main-banner2.png)
-
-<div id="header" align="center">
-  <div id="badges">
-  <a href="https://www.linkedin.com/company/kanaries-data">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="Follow RATH on LinkedIn"/>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cdfa9c7aad0361e06108ae4b4eb37a2c87cbc89ebd8bc58c0494c7f3682c883c/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f726174682d6d61696e2d62616e6e6572322e706e67"><img src="https://camo.githubusercontent.com/cdfa9c7aad0361e06108ae4b4eb37a2c87cbc89ebd8bc58c0494c7f3682c883c/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f726174682d6d61696e2d62616e6e6572322e706e67" alt="" data-canonical-src="https://docs-us.oss-us-west-1.aliyuncs.com/images/readme/rath-main-banner2.png" style="max-width: 100%;"></a></p>
+<div id="user-content-header" align="center" dir="auto">
+  <div id="user-content-badges" dir="auto">
+  <a href="https://www.linkedin.com/company/kanaries-data" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/a8a8bf9898ee6679ebaee5c6a695b65f985cca71d7b5c15ec896b9c20ca2a252/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="在 LinkedIn 上关注 RATH" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
   </a>
-  <a href="https://www.youtube.com/@kanaries_data">
-    <img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white" alt="Follow RATH on Youtube"/>
+  <a href="https://www.youtube.com/@kanaries_data" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/ff29a3f61eb822a5dedf9bfd3a5b79dbc5e4c6cdac1934558923ba4bc4074557/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d7265643f7374796c653d666c61742d737175617265266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" alt="在 YouTube 上关注 RATH" data-canonical-src="https://img.shields.io/badge/YouTube-red?style=flat-square&amp;logo=youtube&amp;logoColor=white" style="max-width: 100%;">
   </a>
-  <a href="https://twitter.com/kanaries_data">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="Follow RATH on Twitter"/>
+  <a href="https://twitter.com/kanaries_data" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/1c5b3f320ba06fd427e4e91f8882ff185884ce92a3f7748cdc1868ab1fcd496f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d626c75653f7374796c653d666c61742d737175617265266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="在 Twitter 上关注 RATH" data-canonical-src="https://img.shields.io/badge/Twitter-blue?style=flat-square&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;">
   </a>
-  <a href="https://medium.com/@kanaries_data">
-    <img src="https://img.shields.io/badge/Medium-grey?style=flat-square&logo=medium&logoColor=white" alt="Read about RATH on medium"/>
+  <a href="https://medium.com/@kanaries_data" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/7443d30284519146f1e6fe038bcd80ac61ede436f38b2290a156aac8e0a7721c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d677265793f7374796c653d666c61742d737175617265266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" alt="在 Medium 上阅读有关 RATH 的文章" data-canonical-src="https://img.shields.io/badge/Medium-grey?style=flat-square&amp;logo=medium&amp;logoColor=white" style="max-width: 100%;">
   </a>
-  <a href="https://discord.gg/Z4ngFWXz2U">
-    <img src="https://img.shields.io/badge/Discord-indigo?style=flat-square&logo=discord&logoColor=white" alt="Join RATH on Discord"/>
+  <a href="https://discord.gg/Z4ngFWXz2U" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/87c60b41bd84f7d922c28f3a9df2f4d847f900a1c6311957115203532761364b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d696e6469676f3f7374796c653d666c61742d737175617265266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" alt="在 Discord 上加入 RATH" data-canonical-src="https://img.shields.io/badge/Discord-indigo?style=flat-square&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;">
   </a>
-  <a href="https://join.slack.com/t/kanaries-community/shared_invite/zt-1pcosgbua-E_GBPawQOI79C41dPDyyvw">
-    <img src="https://img.shields.io/badge/Slack-green?style=flat-square&logo=slack&logoColor=white" alt="Join RATH on Slack"/>
+  <a href="https://join.slack.com/t/kanaries-community/shared_invite/zt-1pcosgbua-E_GBPawQOI79C41dPDyyvw" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/63ad4579123b77b52fe9c424bb4f9a809bced8d40a743e46e98c17fbca8f3518/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536c61636b2d677265656e3f7374796c653d666c61742d737175617265266c6f676f3d736c61636b266c6f676f436f6c6f723d7768697465" alt="在 Slack 上加入 RATH" data-canonical-src="https://img.shields.io/badge/Slack-green?style=flat-square&amp;logo=slack&amp;logoColor=white" style="max-width: 100%;">
   </a> 
   </div>
-  <a href="https://www.gnu.org/licenses/agpl-3.0.en.html">
-    <img src="https://img.shields.io/badge/license-AGPL-brightgreen?style=flat-square" alt="AGPL License">
+  <a href="https://www.gnu.org/licenses/agpl-3.0.en.html" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/e5e99740e2524a08e6adb6ca5d8c147a8c01c391e9c9f149d0c5a7a2fad21ee7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4147504c2d627269676874677265656e3f7374796c653d666c61742d737175617265" alt="AGPL 许可证" data-canonical-src="https://img.shields.io/badge/license-AGPL-brightgreen?style=flat-square" style="max-width: 100%;">
   </a>
   <a href="https://github.com/Kanaries/Rath/stargazers">
-    <img src="https://badgen.net/github/stars/kanaries/rath?style=flat-square" alt="RATH GitHub Stars">
+    <img src="https://camo.githubusercontent.com/33079af806c78915e66f27a00c6120a6860fd88d179823c2f6d0c84eba1ad830/68747470733a2f2f62616467656e2e6e65742f6769746875622f73746172732f6b616e61726965732f726174683f7374796c653d666c61742d737175617265" alt="RATH GitHub 星星" data-canonical-src="https://badgen.net/github/stars/kanaries/rath?style=flat-square" style="max-width: 100%;">
   </a>
   <a href="https://github.com/Kanaries/Rath/fork">
-    <img src="https://badgen.net/github/forks/kanaries/rath?style=flat-square" alt="RATH GitHub Forks">
+    <img src="https://camo.githubusercontent.com/8ce5e5d8ffdc7f0e857d4a290ca8a0a76420542638da91a4ae7d165686081ed1/68747470733a2f2f62616467656e2e6e65742f6769746875622f666f726b732f6b616e61726965732f726174683f7374796c653d666c61742d737175617265" alt="RATH GitHub Forks" data-canonical-src="https://badgen.net/github/forks/kanaries/rath?style=flat-square" style="max-width: 100%;">
   </a>
     <a href="https://github.com/Kanaries/Rath/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/kanaries/rath/auto-build.yml?branch=master&style=flat-square">
+    <img src="https://camo.githubusercontent.com/4526c047936d15255dc4445f4f3616cedbc61faafe83f02cb48d2970c45dbc2e/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f616374696f6e732f776f726b666c6f772f7374617475732f6b616e61726965732f726174682f6175746f2d6275696c642e796d6c3f6272616e63683d6d6173746572267374796c653d666c61742d737175617265" data-canonical-src="https://img.shields.io/github/actions/workflow/status/kanaries/rath/auto-build.yml?branch=master&amp;style=flat-square" style="max-width: 100%;">
   </a>
 </div>
-
-<br />
-
-<img src="https://ch-resources.oss-cn-shanghai.aliyuncs.com/images/lang-icons/icon128px.png" width="22px" /> English | [日本語](./docs/README-jp.md) | [简体中文](./docs/README-zh.md)
-
-## Introduction
-
-**RATH** is not just an open-source alternative to Data Analysis and Visualization tools such as Tableau, but it automates your Exploratory Data Analysis workflow with an Augmented Analytic engine by discovering patterns, insights, causals and presents those insights with powerful auto-generated multi-dimensional data visualization.
-
-> RATH generates/recommends visualizations based on minimize visual perception error of information in visualizations.
-
-
-https://user-images.githubusercontent.com/22167673/234053551-24e0f1c9-1efb-4250-a2f8-dbf148f5f4d0.mp4
-
-
-
-## Get started
-
-Get started with RATH now!
-- 🚀 [Sandbox demo for parts of features](https://rath.kanaries.net)
-- 📖 [Read RATH Docs](https://docs.kanaries.net)
-- [Video introducing RATH's data painter](https://youtu.be/djqePNyhz7w)
-
-
-## Features
-+ 🤖 [AutoPilot for Data Exploration](https://docs.kanaries.net/rath/explore-data/automated-data-insight): Get Insights with One Click! Augmented analytic engine for discovering patterns, insights, and causals. A fully-automated way to explore and visualize dataset with one click.
-
-- 🛠 [Copilot for Data Exploration](https://docs.kanaries.net/rath/explore-data/data-exploration-copilot): RATH will work as your copilot in data science, learn your intends and generate relevant recommendations.
-
-- Natural Language interface: Ask questions in natural language to get answers/visualizations from your data.
-
-+ AutoVis: RATH will generate the best visualization for the data you selected. It makes you focus on data and variables, not how to make a visualization.
-
-- 👓 [Data Wrangler](https://docs.kanaries.net/rath/prepare-data/extract-text-patterns): Automated data wrangler for generating summary of the data and data transformation.
-
-- 🎨 [Data Painter](https://docs.kanaries.net/rath/explore-data/data-painter): An interactive, instinctive yet powerful tool for exploratory data analysis by directly coloring your data, with further analytical features. Watch [this video](https://youtu.be/djqePNyhz7w) demonstrating about how to discover data insights with Data Painter.
-
-- :bar_chart: Dashboard: Build a beautiful interactive data dashboard (including a automated dashboard designer which can provide suggestions to your dashboard).
-
-- Causal Analysis: Identify and examine the causal relationship between variables, which can help explore the data, create better prediction models and make business decission.
-
-
-## Walkthroughs
-
-### Import data from online databases or CSV/JSON files.
-
-[![](https://docs-us.oss-us-west-1.aliyuncs.com/images/readme/ds-create.png)](https://docs.kanaries.net/rath/connect-your-data)
-
-
-### View statistics from your data source
-
-[![](https://docs-us.oss-us-west-1.aliyuncs.com/images/readme/data-profiling-readme.gif)](https://docs.kanaries.net/rath/prepare-data/data-profiling#data-profiling-with-rath)
-
-### Data Preparation
-
-RATH support data preparation with black magic like predictive transformation operations. It will automatically generate suggestions of transformations and cleaning, etc.
-
-[![](https://docs-us.oss-us-west-1.aliyuncs.com/images/readme/text-pattern-general.gif)](https://docs.kanaries.net/rath/prepare-data/data-transformation)
-
-### One-click automated data analysis with visualizations
-
-Augmented analytic engine for discovering patterns, insights, and causals. A fully-automated way to explore and visualize dataset with one click.
-
-
-[![](https://docs-us.oss-us-west-1.aliyuncs.com/images/readme/autopilot.gif)](https://docs.kanaries.net/rath/explore-data/automated-data-insight)
-
-### Use RATH as your Copilot in Data Exploration
-
-RATH will work as your copilot in data science, learn your intends and generate relevant recommendations.
-
-
-
-https://user-images.githubusercontent.com/22167673/234018034-c7441549-e83b-4f5e-94c7-f772527a7094.mp4
-
-
-
-### Ask about your data
-
-Ask questions about your data, RATH integrates with GPT to generate answers and visualizations.
-
-![](https://docs-us.oss-us-west-1.aliyuncs.com/images/readme/ask-rath.gif)
-
-### Manually explore your data with drag and drop:
-
-<a href="https://docs.kanaries.net/rath/explore-data/explore-data-graphic-walker"><img src="https://docs-us.oss-us-west-1.aliyuncs.com/images/readme/graphic-walker.gif" alt="Manually explore your data with a Tableau-like UI"></a>
-
-> Manual Exploration is an independent embedding module. You can use it independently in your apps. For more details, refer to the README.md in in `packages/graphic-walker/README.md`.
->
-> Install Graphic Walker
-> ```bash
-> yarn add @kanaries/graphic-walker
-> # or
-> npm i --save @kanaries/graphic-walker
-> ```
-
-### :sparkles: Interactive data analysis workflow by data painting
-
-[Data Painter Video 🔥 on Youtube](https://youtu.be/djqePNyhz7w)
-
-<a href="https://docs.kanaries.net/rath/explore-data/data-painter"><img src="https://docs-us.oss-us-west-1.aliyuncs.com/images/readme/data-painter.gif" alt="Interactive data analysis by painting"></a>
-
-### 🌅 Causal Analysis (Alpha stage)
-
-Causal analysis could be defined as the way to identify and examine the causal relationship between variables, which can help explore the data, create better prediction models and make business decision.
-
-RATH's causal analysis feature include:
-- Causal Discovery
-- Editable graphical causal models
-- Causal interpretability
-- Interactive tools for deeper exploration
-- What-if analysis
-
-![Causal Analysis](https://docs-us.oss-us-west-1.aliyuncs.com/images/readme/causal-feature.png)
-
-For more about Causal Analysis features, refer to [RATH Docs](https://docs.kanaries.net/rath/discover-causals/causal-analysis).
-
-## Supported Databases
-
-RATH supports a wide range of data sources. Here are some of the major database solutions that you can connect to RATH:
-
-<p align="center">
-  <img src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/github-logos/athena.png" alt="Amazon Athena" border="0" width="200" height="80"/>
-  <img src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/github-logos/redshift.png" alt="Amazon Redshift" border="0" width="200" height="80"/>
-  <img src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/github-logos/spark.png" alt="Apache Spark SQL" border="0" width="200" height="80"/>
-  <img src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/github-logos/doris.png" alt="Apache Doris" border="0" width="200" height="80"/>
-  <img src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/github-logos/clickhouse.png" alt="Clickhouse" border="0" width="200" height="80"/>
-  <img src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/github-logos/hive.png" alt="Apache Hive" border="0" width="200" height="80"/>
-  <img src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/github-logos/mysql.png" alt="MySQL" border="0" width="200" height="80"/>
-  <img src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/github-logos/postgresql.png" alt="Postgre SQL" border="0" width="200" height="80"/>
-  <img src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/github-logos/impala.png" alt="Apache Impala" border="0" width="200" height="80"/>
-  <img src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/github-logos/kylin.png" alt="Apache Kylin" border="0" width="200" height="80"/>
-  <img src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/github-logos/oracle.png" alt="Oracle" border="0" width="200" height="80"/>
-  <img src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/github-logos/airtable.png" alt="AirTable" border="0" width="200" height="80"/>
-</p>
-
-If you want to add support for more database types or data engines, feel free to [Contact us](https://docs.kanaries.net/support)
-
-## Developer Documentation
-
-RATH software is in open alpha stage. We are working on improving its code and documentation.
-
-build script for client parts
-```bash
-yarn install
-
-yarn workspace rath-client build
-```
-
-If you are using RATH for your project(s), please let us know what are you using it for by emailing us at  [support@kanaries.org](support@kanaries.org). Feedbacks are also welcomed. If you find a bug or have a feature request, please create an issue.
-
-We encourage you to check out our [RATH Docs](https://docs.kanaries.net) for references and guidance. 
-
-## Project Status
-
-![Alt](https://repobeats.axiom.co/api/embed/0aa0df006ea6857c02565043d39c2b0da5380f93.svg "Repobeats analytics image")
-
-## Community
-
-[Kanaries community](https://docs.kanaries.net/community) is a place to have open discussions on features, voice your ideas, or get help with general questions. Get onboard with us through the following channels:
-
-Our developer community is the backbone of the ongoing RATH project. We sincerely welcome you to [join our community](join), participate in the conversation and stay connected with us for the latest updates.
-- [Join our Slack](https://join.slack.com/t/kanaries-community/shared_invite/zt-1pcosgbua-E_GBPawQOI79C41dPDyyvw)
-- [Join our Discord](https://discord.gg/Z4ngFWXz2U)
-
-Feel free to [contribute to the RATH project](contribution-guide), submit any issues on our GitHub page, or split your grand new ideas in our chats.
-
-<a href="https://join.slack.com/t/kanaries-community/shared_invite/zt-1pcosgbua-E_GBPawQOI79C41dPDyyvw"><img src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/slack.png" alt="Join our Slack community" width="200"/></a>
-<a href="https://discord.gg/Z4ngFWXz2U"><img src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/discord.png" alt="Join our Discord community" width="200"/> </a>
-
-
-> Please consider sharing your experience or thoughts about [Kanaries RATH](https://kanaries.net) with the border Open Source community. It really does help!
-
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-reddit-red?style=flat-square&logo=reddit)](https://reddit.com/submit?url=https://github.com/Kanaries/Rath&title=OpenSource%20Augmented%20Analytic%20BI%20Solution:%20Automated%20Exploratory%20Data%20Analysis%20for%20Data%20Science)
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-hacker%20news-orange?style=flat-square&logo=ycombinator)](https://news.ycombinator.com/submitlink?u=https://github.com/Kanaries/Rath)
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-twitter-03A9F4?style=flat-square&logo=twitter)](https://twitter.com/share?url=https://github.com/Kanaries/Rath&text=OpenSource%20Augmented%20Analytic%20BI%20Solution:%20Automated%20Exploratory%20Data%20Analysis%20for%20Data%20Science)
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-facebook-1976D2?style=flat-square&logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/Kanaries/Rath)
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-linkedin-3949AB?style=flat-square&logo=linkedin)](https://www.linkedin.com/shareArticle?url=https://github.com/Kanaries/Rath&title=OpenSource%20Augmented%20Analytic%20BI%20Solution:%20Automated%20Exploratory%20Data%20Analysis%20for%20Data%20Science)
-
-## Contributions
-
-Please check out the [Contributing to RATH guide](https://docs.kanaries.net/community/contribution-guide)
-for guidelines about how to proceed.
-
-Thanks to all contributors :heart:
-
-<a href="https://github.com/kanaries/rath/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=kanaries/rath" />
-</a>
-
-## LICENSE (AGPL)
-Rath is an automated data analysis and visualization tool (auto-EDA). It is a free and open-source software licensed under the AGPL.
-
----
-
-Branded icons are licensed under their copyright license.
 <br>
-<p align="center">
-  <br>
-  <strong>Have fun with data!</strong> ❤️
-</p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f6e8245fd686c237d6480c3fcd3f393a8a4c67c60c65caba168424e51caca406/68747470733a2f2f63682d7265736f75726365732e6f73732d636e2d7368616e676861692e616c6979756e63732e636f6d2f696d616765732f6c616e672d69636f6e732f69636f6e31323870782e706e67"><img src="https://camo.githubusercontent.com/f6e8245fd686c237d6480c3fcd3f393a8a4c67c60c65caba168424e51caca406/68747470733a2f2f63682d7265736f75726365732e6f73732d636e2d7368616e676861692e616c6979756e63732e636f6d2f696d616765732f6c616e672d69636f6e732f69636f6e31323870782e706e67" width="22px" data-canonical-src="https://ch-resources.oss-cn-shanghai.aliyuncs.com/images/lang-icons/icon128px.png" style="max-width: 100%;"></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">English |</font></font><a href="/Kanaries/Rath/blob/master/docs/README-jp.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">日本語</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">|</font></font><a href="/Kanaries/Rath/blob/master/docs/README-zh.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">简体中文</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">介绍</font></font></h2><a id="user-content-introduction" class="anchor" aria-label="永久链接：简介" href="#introduction"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RATH</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不仅是 Tableau 等数据分析和可视化工具的开源替代品，而且它还可以通过增强分析引擎自动化您的探索性数据分析工作流程，发现模式、见解和因果关系，并通过强大的自动生成的多维数据可视化呈现这些见解。</font></font></p>
+<blockquote>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RATH 根据最小化可视化中信息的视觉感知错误来生成/推荐可视化。</font></font></p>
+</blockquote>
+<details open="" class="details-reset border rounded-2">
+  <summary class="px-3 py-2">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-camera-video">
+    <path d="M16 3.75v8.5a.75.75 0 0 1-1.136.643L11 10.575v.675A1.75 1.75 0 0 1 9.25 13h-7.5A1.75 1.75 0 0 1 0 11.25v-6.5C0 3.784.784 3 1.75 3h7.5c.966 0 1.75.784 1.75 1.75v.675l3.864-2.318A.75.75 0 0 1 16 3.75Zm-6.5 1a.25.25 0 0 0-.25-.25h-7.5a.25.25 0 0 0-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-6.5ZM11 8.825l3.5 2.1v-5.85l-3.5 2.1Z"></path>
+</svg>
+    <span aria-label="视频描述 rath-walkthroughs-lite.mp4" class="m-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">rath-演练-lite.mp4</font></font></span>
+    <span class="dropdown-caret"></span>
+  </summary>
 
-[⬆ Back to Top](#introduction)
+  <video src="https://private-user-images.githubusercontent.com/22167673/234053551-24e0f1c9-1efb-4250-a2f8-dbf148f5f4d0.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY2ODMwNDgsIm5iZiI6MTcxNjY4Mjc0OCwicGF0aCI6Ii8yMjE2NzY3My8yMzQwNTM1NTEtMjRlMGYxYzktMWVmYi00MjUwLWEyZjgtZGJmMTQ4ZjVmNGQwLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTI2VDAwMTkwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM5NTUzYmI1ZmQ3NjJiYTZmZDM3MDdmOWRiYmI5MjRjNGNjY2I5MWY5MzAxNmYzNjA5YTQxZDNjNGM1Y2QxYWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.XsrzvKa9pg6iuIozXw391uXWM7hHPubmiTulygg27mI" data-canonical-src="https://private-user-images.githubusercontent.com/22167673/234053551-24e0f1c9-1efb-4250-a2f8-dbf148f5f4d0.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY2ODMwNDgsIm5iZiI6MTcxNjY4Mjc0OCwicGF0aCI6Ii8yMjE2NzY3My8yMzQwNTM1NTEtMjRlMGYxYzktMWVmYi00MjUwLWEyZjgtZGJmMTQ4ZjVmNGQwLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTI2VDAwMTkwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM5NTUzYmI1ZmQ3NjJiYTZmZDM3MDdmOWRiYmI5MjRjNGNjY2I5MWY5MzAxNmYzNjA5YTQxZDNjNGM1Y2QxYWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.XsrzvKa9pg6iuIozXw391uXWM7hHPubmiTulygg27mI" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
+
+  </video>
+</details>
+
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开始使用</font></font></h2><a id="user-content-get-started" class="anchor" aria-label="永久链接：开始吧" href="#get-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">立即开始使用 RATH！</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🚀</font></font><a href="https://rath.kanaries.net" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">部分功能的沙盒演示</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📖</font></font><a href="https://docs.kanaries.net" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阅读 RATH 文档</font></font></a></li>
+<li><a href="https://youtu.be/djqePNyhz7w" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RATH 数据绘制器介绍视频</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特征</font></font></h2><a id="user-content-features" class="anchor" aria-label="固定链接：功能" href="#features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤖</font></font><a href="https://docs.kanaries.net/rath/explore-data/automated-data-insight" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据探索 AutoPilot</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：一键获取洞察！增强型分析引擎，用于发现模式、洞察和因果关系。一键即可完全自动化地探索和可视化数据集。</font></font></li>
+</ul>
+<ul dir="auto">
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🛠</font></font><a href="https://docs.kanaries.net/rath/explore-data/data-exploration-copilot" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据探索的副驾驶</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：RATH 将作为您在数据科学方面的副驾驶，了解您的意图并生成相关建议。</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自然语言界面：用自然语言提出问题以从数据中获取答案/可视化。</font></font></p>
+</li>
+</ul>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AutoVis：RATH 将为您选择的数据生成最佳可视化效果。它让您专注于数据和变量，而不是如何进行可视化。</font></font></li>
+</ul>
+<ul dir="auto">
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👓</font></font><a href="https://docs.kanaries.net/rath/prepare-data/extract-text-patterns" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据管理员</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：自动数据管理员，用于生成数据摘要和数据转换。</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🎨 </font></font><a href="https://docs.kanaries.net/rath/explore-data/data-painter" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Data Painter</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：一种交互式、直观且功能强大的工具，可通过直接为数据着色来进行探索性数据分析，并具有进一步的分析功能。观看</font></font><a href="https://youtu.be/djqePNyhz7w" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，了解如何使用 Data Painter 发现数据洞察。</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📊 仪表板：构建漂亮的交互式数据仪表板（包括可为您的仪表板提供建议的自动化仪表板设计器）。</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">因果分析：识别和检查变量之间的因果关系，这有助于探索数据，创建更好的预测模型并做出商业决策。</font></font></p>
+</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">演练</font></font></h2><a id="user-content-walkthroughs" class="anchor" aria-label="永久链接：演练" href="#walkthroughs"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从在线数据库或 CSV/JSON 文件导入数据。</font></font></h3><a id="user-content-import-data-from-online-databases-or-csvjson-files" class="anchor" aria-label="永久链接：从在线数据库或 CSV/JSON 文件导入数据。" href="#import-data-from-online-databases-or-csvjson-files"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://docs.kanaries.net/rath/connect-your-data" rel="nofollow"><img src="https://camo.githubusercontent.com/ad72717ad6e500a01c8906c2f31e6c7f9bf17fa3c2057af60936113da8b2da70/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f64732d6372656174652e706e67" alt="" data-canonical-src="https://docs-us.oss-us-west-1.aliyuncs.com/images/readme/ds-create.png" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看数据源的统计数据</font></font></h3><a id="user-content-view-statistics-from-your-data-source" class="anchor" aria-label="永久链接：查看数据源的统计数据" href="#view-statistics-from-your-data-source"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><animated-image data-catalyst=""><a href="https://docs.kanaries.net/rath/prepare-data/data-profiling#data-profiling-with-rath" rel="nofollow" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/e79c76e3c1ca10a96fc24c7465eb2ab2af9c0c03b470434a38ad5deb79112da4/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f646174612d70726f66696c696e672d726561646d652e676966" alt="" data-canonical-src="https://docs-us.oss-us-west-1.aliyuncs.com/images/readme/data-profiling-readme.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://docs.kanaries.net/rath/prepare-data/data-profiling#data-profiling-with-rath" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f646174612d70726f66696c696e672d726561646d652e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/e79c76e3c1ca10a96fc24c7465eb2ab2af9c0c03b470434a38ad5deb79112da4/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f646174612d70726f66696c696e672d726561646d652e676966" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="814" height="462"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="播放 68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f646174612d70726f66696c696e672d726561646d652e676966" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="播放 68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f646174612d70726f66696c696e672d726561646d652e676966">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="在新窗口中打开 68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f646174612d70726f66696c696e672d726561646d652e676966" class="AnimatedImagePlayer-button" href="https://docs.kanaries.net/rath/prepare-data/data-profiling#data-profiling-with-rath" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据准备</font></font></h3><a id="user-content-data-preparation" class="anchor" aria-label="固定链接：数据准备" href="#data-preparation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RATH 支持使用类似预测转换操作的黑魔法进行数据准备。它将自动生成转换和清理等建议。</font></font></p>
+<p dir="auto"><animated-image data-catalyst=""><a href="https://docs.kanaries.net/rath/prepare-data/data-transformation" rel="nofollow" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/45a0e590fcdcc69bc40a3c3fea33bb1b6d84e40acc8efeb95c1d56766fb46495/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f746578742d7061747465726e2d67656e6572616c2e676966" alt="" data-canonical-src="https://docs-us.oss-us-west-1.aliyuncs.com/images/readme/text-pattern-general.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://docs.kanaries.net/rath/prepare-data/data-transformation" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f746578742d7061747465726e2d67656e6572616c2e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/45a0e590fcdcc69bc40a3c3fea33bb1b6d84e40acc8efeb95c1d56766fb46495/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f746578742d7061747465726e2d67656e6572616c2e676966" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="814" height="449"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="播放 68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f746578742d7061747465726e2d67656e6572616c2e676966" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="播放 68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f746578742d7061747465726e2d67656e6572616c2e676966">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="在新窗口中打开 68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f746578742d7061747465726e2d67656e6572616c2e676966" class="AnimatedImagePlayer-button" href="https://docs.kanaries.net/rath/prepare-data/data-transformation" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一键式自动化数据分析，带可视化</font></font></h3><a id="user-content-one-click-automated-data-analysis-with-visualizations" class="anchor" aria-label="永久链接：一键式自动化数据分析与可视化" href="#one-click-automated-data-analysis-with-visualizations"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">增强型分析引擎，用于发现模式、见解和因果关系。只需单击一下即可完全自动化地探索和可视化数据集。</font></font></p>
+<p dir="auto"><animated-image data-catalyst=""><a href="https://docs.kanaries.net/rath/explore-data/automated-data-insight" rel="nofollow" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/c64eb2ccc18b9959bea21377a6868eac58765cf45357456220fcab1d0b76fdba/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f6175746f70696c6f742e676966" alt="" data-canonical-src="https://docs-us.oss-us-west-1.aliyuncs.com/images/readme/autopilot.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://docs.kanaries.net/rath/explore-data/automated-data-insight" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f6175746f70696c6f742e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/c64eb2ccc18b9959bea21377a6868eac58765cf45357456220fcab1d0b76fdba/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f6175746f70696c6f742e676966" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="814" height="443"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="播放 68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f6175746f70696c6f742e676966" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="播放 68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f6175746f70696c6f742e676966">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="在新窗口中打开 68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f6175746f70696c6f742e676966" class="AnimatedImagePlayer-button" href="https://docs.kanaries.net/rath/explore-data/automated-data-insight" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 RATH 作为数据探索的副驾驶</font></font></h3><a id="user-content-use-rath-as-your-copilot-in-data-exploration" class="anchor" aria-label="永久链接：使用 RATH 作为数据探索的副驾驶" href="#use-rath-as-your-copilot-in-data-exploration"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RATH 将作为您在数据科学方面的副驾驶，了解您的意图并生成相关建议。</font></font></p>
+<details open="" class="details-reset border rounded-2">
+  <summary class="px-3 py-2">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-camera-video">
+    <path d="M16 3.75v8.5a.75.75 0 0 1-1.136.643L11 10.575v.675A1.75 1.75 0 0 1 9.25 13h-7.5A1.75 1.75 0 0 1 0 11.25v-6.5C0 3.784.784 3 1.75 3h7.5c.966 0 1.75.784 1.75 1.75v.675l3.864-2.318A.75.75 0 0 1 16 3.75Zm-6.5 1a.25.25 0 0 0-.25-.25h-7.5a.25.25 0 0 0-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-6.5ZM11 8.825l3.5 2.1v-5.85l-3.5 2.1Z"></path>
+</svg>
+    <span aria-label="视频说明半自动化.mp4" class="m-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">半自动化.mp4</font></font></span>
+    <span class="dropdown-caret"></span>
+  </summary>
+
+  <video src="https://private-user-images.githubusercontent.com/22167673/234018034-c7441549-e83b-4f5e-94c7-f772527a7094.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY2ODMwNDgsIm5iZiI6MTcxNjY4Mjc0OCwicGF0aCI6Ii8yMjE2NzY3My8yMzQwMTgwMzQtYzc0NDE1NDktZTgzYi00ZjVlLTk0YzctZjc3MjUyN2E3MDk0Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTI2VDAwMTkwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYwZmYxZDYyZGIxNDBkYjY1NjA4NTc5YWNjMThmMjRjNzg5YmI2YjAyN2MzZjgxNzZmZjBmOTk5NWIwZDMzMjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Vsq15Xyblgq2_ZQhM7YJnuBWrwNwW3Lyx-fFuK6gGcc" data-canonical-src="https://private-user-images.githubusercontent.com/22167673/234018034-c7441549-e83b-4f5e-94c7-f772527a7094.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY2ODMwNDgsIm5iZiI6MTcxNjY4Mjc0OCwicGF0aCI6Ii8yMjE2NzY3My8yMzQwMTgwMzQtYzc0NDE1NDktZTgzYi00ZjVlLTk0YzctZjc3MjUyN2E3MDk0Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTI2VDAwMTkwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYwZmYxZDYyZGIxNDBkYjY1NjA4NTc5YWNjMThmMjRjNzg5YmI2YjAyN2MzZjgxNzZmZjBmOTk5NWIwZDMzMjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Vsq15Xyblgq2_ZQhM7YJnuBWrwNwW3Lyx-fFuK6gGcc" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
+
+  </video>
+</details>
+
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">询问您的数据</font></font></h3><a id="user-content-ask-about-your-data" class="anchor" aria-label="永久链接：询问您的数据" href="#ask-about-your-data"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">询问有关您的数据的问题，RATH 与 GPT 集成以生成答案和可视化效果。</font></font></p>
+<p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3760d28024c318c859eb4739db5ee95eeac3d2849be9bc9660f3156e847d1ad2/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f61736b2d726174682e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/3760d28024c318c859eb4739db5ee95eeac3d2849be9bc9660f3156e847d1ad2/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f61736b2d726174682e676966" alt="" data-canonical-src="https://docs-us.oss-us-west-1.aliyuncs.com/images/readme/ask-rath.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/3760d28024c318c859eb4739db5ee95eeac3d2849be9bc9660f3156e847d1ad2/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f61736b2d726174682e676966" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f61736b2d726174682e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/3760d28024c318c859eb4739db5ee95eeac3d2849be9bc9660f3156e847d1ad2/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f61736b2d726174682e676966" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="814" height="458"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play 68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f61736b2d726174682e676966" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play 68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f61736b2d726174682e676966">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="Open 68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f61736b2d726174682e676966 in new window" class="AnimatedImagePlayer-button" href="https://camo.githubusercontent.com/3760d28024c318c859eb4739db5ee95eeac3d2849be9bc9660f3156e847d1ad2/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f61736b2d726174682e676966" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过拖放操作手动探索您的数据：</font></font></h3><a id="user-content-manually-explore-your-data-with-drag-and-drop" class="anchor" aria-label="永久链接：通过拖放操作手动探索您的数据：" href="#manually-explore-your-data-with-drag-and-drop"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><animated-image data-catalyst=""><a href="https://docs.kanaries.net/rath/explore-data/explore-data-graphic-walker" rel="nofollow" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/c81b299e5f3ccaa49919fd59c18d52d2cee39740d0788cf17b308a4fb90b0894/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f677261706869632d77616c6b65722e676966" alt="使用类似 Tableau 的用户界面手动探索数据" data-canonical-src="https://docs-us.oss-us-west-1.aliyuncs.com/images/readme/graphic-walker.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://docs.kanaries.net/rath/explore-data/explore-data-graphic-walker" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="Manually explore your data with a Tableau-like UI" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/c81b299e5f3ccaa49919fd59c18d52d2cee39740d0788cf17b308a4fb90b0894/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f677261706869632d77616c6b65722e676966" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="814" height="443"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Manually explore your data with a Tableau-like UI" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play Manually explore your data with a Tableau-like UI">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="Open Manually explore your data with a Tableau-like UI in new window" class="AnimatedImagePlayer-button" href="https://docs.kanaries.net/rath/explore-data/explore-data-graphic-walker" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image></p>
+<blockquote>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Manual Exploration 是一个独立的嵌入模块，你可以在自己的应用中独立使用，更多详细信息请参考 中的 README.md </font></font><code>packages/graphic-walker/README.md</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装 Graphic Walker</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>yarn add @kanaries/graphic-walker
+<span class="pl-c"><span class="pl-c">#</span> or</span>
+npm i --save @kanaries/graphic-walker</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="yarn add @kanaries/graphic-walker
+# or
+npm i --save @kanaries/graphic-walker" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+</blockquote>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✨ 通过数据绘制进行交互式数据分析的工作流程</font></font></h3><a id="user-content-sparkles-interactive-data-analysis-workflow-by-data-painting" class="anchor" aria-label="永久链接：:sparkles: 通过数据绘制实现交互式数据分析工作流程" href="#sparkles-interactive-data-analysis-workflow-by-data-painting"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://youtu.be/djqePNyhz7w" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube 上的 Data Painter 视频🔥</font></font></a></p>
+<p dir="auto"><animated-image data-catalyst=""><a href="https://docs.kanaries.net/rath/explore-data/data-painter" rel="nofollow" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/2eac9ebbaa90967632306c921e53f96a6ce37911438bed1b9eef149b092782e8/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f646174612d7061696e7465722e676966" alt="通过绘画进行交互式数据分析" data-canonical-src="https://docs-us.oss-us-west-1.aliyuncs.com/images/readme/data-painter.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://docs.kanaries.net/rath/explore-data/data-painter" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="Interactive data analysis by painting" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/2eac9ebbaa90967632306c921e53f96a6ce37911438bed1b9eef149b092782e8/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f646174612d7061696e7465722e676966" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="814" height="443"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Interactive data analysis by painting" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play Interactive data analysis by painting">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="Open Interactive data analysis by painting in new window" class="AnimatedImagePlayer-button" href="https://docs.kanaries.net/rath/explore-data/data-painter" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌅 因果分析（Alpha 阶段）</font></font></h3><a id="user-content--causal-analysis-alpha-stage" class="anchor" aria-label="永久链接：🌅 因果分析（Alpha 阶段）" href="#-causal-analysis-alpha-stage"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">因果分析可以定义为识别和检查变量之间的因果关系的方法，它有助于探索数据，创建更好的预测模型并做出商业决策。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RATH 的因果分析功能包括：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">因果发现</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可编辑的图形因果模型</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">因果可解释性</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于更深入探索的交互式工具</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">假设分析</font></font></li>
+</ul>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cbb54d35bb3be94a5a924d313084ab23da59e05ed203285e2b5cbb367d74b8b5/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f63617573616c2d666561747572652e706e67"><img src="https://camo.githubusercontent.com/cbb54d35bb3be94a5a924d313084ab23da59e05ed203285e2b5cbb367d74b8b5/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f63617573616c2d666561747572652e706e67" alt="因果分析" data-canonical-src="https://docs-us.oss-us-west-1.aliyuncs.com/images/readme/causal-feature.png" style="max-width: 100%;"></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关因果分析功能的更多信息，请参阅</font></font><a href="https://docs.kanaries.net/rath/discover-causals/causal-analysis" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RATH 文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持的数据库</font></font></h2><a id="user-content-supported-databases" class="anchor" aria-label="永久链接：支持的数据库" href="#supported-databases"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RATH 支持多种数据源。以下是您可以连接到 RATH 的一些主要数据库解决方案：</font></font></p>
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/55fb22b9bf8cbbecfa3fa91f8639ae09ccf144ed19242beb63c6ad5bdf26ddeb/68747470733a2f2f6b616e61726965732d646f63732e6f73732d636e2d68616e677a686f752e616c6979756e63732e636f6d2f696d672f6769746875622d6c6f676f732f617468656e612e706e67"><img src="https://camo.githubusercontent.com/55fb22b9bf8cbbecfa3fa91f8639ae09ccf144ed19242beb63c6ad5bdf26ddeb/68747470733a2f2f6b616e61726965732d646f63732e6f73732d636e2d68616e677a686f752e616c6979756e63732e636f6d2f696d672f6769746875622d6c6f676f732f617468656e612e706e67" alt="亚马逊雅典娜" border="0" width="200" height="80" data-canonical-src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/github-logos/athena.png" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c57bbc5147e0a0a28e8fb93e4423ea699f3b6bfeab9eb1cbb61482dac1d587fa/68747470733a2f2f6b616e61726965732d646f63732e6f73732d636e2d68616e677a686f752e616c6979756e63732e636f6d2f696d672f6769746875622d6c6f676f732f72656473686966742e706e67"><img src="https://camo.githubusercontent.com/c57bbc5147e0a0a28e8fb93e4423ea699f3b6bfeab9eb1cbb61482dac1d587fa/68747470733a2f2f6b616e61726965732d646f63732e6f73732d636e2d68616e677a686f752e616c6979756e63732e636f6d2f696d672f6769746875622d6c6f676f732f72656473686966742e706e67" alt="亚马逊 Redshift" border="0" width="200" height="80" data-canonical-src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/github-logos/redshift.png" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/10d624879dfa0998e89eb16b1726b47212381ddb27491e479ead84dc52b62ca9/68747470733a2f2f6b616e61726965732d646f63732e6f73732d636e2d68616e677a686f752e616c6979756e63732e636f6d2f696d672f6769746875622d6c6f676f732f737061726b2e706e67"><img src="https://camo.githubusercontent.com/10d624879dfa0998e89eb16b1726b47212381ddb27491e479ead84dc52b62ca9/68747470733a2f2f6b616e61726965732d646f63732e6f73732d636e2d68616e677a686f752e616c6979756e63732e636f6d2f696d672f6769746875622d6c6f676f732f737061726b2e706e67" alt="Apache Spark SQL" border="0" width="200" height="80" data-canonical-src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/github-logos/spark.png" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/83b42c8324c250065ccaa12f493bda3053e0024364cff226df17ba9ee90cae7c/68747470733a2f2f6b616e61726965732d646f63732e6f73732d636e2d68616e677a686f752e616c6979756e63732e636f6d2f696d672f6769746875622d6c6f676f732f646f7269732e706e67"><img src="https://camo.githubusercontent.com/83b42c8324c250065ccaa12f493bda3053e0024364cff226df17ba9ee90cae7c/68747470733a2f2f6b616e61726965732d646f63732e6f73732d636e2d68616e677a686f752e616c6979756e63732e636f6d2f696d672f6769746875622d6c6f676f732f646f7269732e706e67" alt="阿帕奇 Doris" border="0" width="200" height="80" data-canonical-src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/github-logos/doris.png" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/28d1a324d50f8d2123671efaf6c6d1409722eeb7f7e2fc73945f80c100e20a73/68747470733a2f2f6b616e61726965732d646f63732e6f73732d636e2d68616e677a686f752e616c6979756e63732e636f6d2f696d672f6769746875622d6c6f676f732f636c69636b686f7573652e706e67"><img src="https://camo.githubusercontent.com/28d1a324d50f8d2123671efaf6c6d1409722eeb7f7e2fc73945f80c100e20a73/68747470733a2f2f6b616e61726965732d646f63732e6f73732d636e2d68616e677a686f752e616c6979756e63732e636f6d2f696d672f6769746875622d6c6f676f732f636c69636b686f7573652e706e67" alt="点击屋" border="0" width="200" height="80" data-canonical-src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/github-logos/clickhouse.png" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7ed087001891cab7df70fcc0a0963a0b39a2e4171ca2d7ccd6c48bb50ab13db5/68747470733a2f2f6b616e61726965732d646f63732e6f73732d636e2d68616e677a686f752e616c6979756e63732e636f6d2f696d672f6769746875622d6c6f676f732f686976652e706e67"><img src="https://camo.githubusercontent.com/7ed087001891cab7df70fcc0a0963a0b39a2e4171ca2d7ccd6c48bb50ab13db5/68747470733a2f2f6b616e61726965732d646f63732e6f73732d636e2d68616e677a686f752e616c6979756e63732e636f6d2f696d672f6769746875622d6c6f676f732f686976652e706e67" alt="阿帕奇蜂巢" border="0" width="200" height="80" data-canonical-src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/github-logos/hive.png" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8d77fe4320e3838796ceb5ef3a65b9bf0b23e88054b37e1ca6c23a518dc848e8/68747470733a2f2f6b616e61726965732d646f63732e6f73732d636e2d68616e677a686f752e616c6979756e63732e636f6d2f696d672f6769746875622d6c6f676f732f6d7973716c2e706e67"><img src="https://camo.githubusercontent.com/8d77fe4320e3838796ceb5ef3a65b9bf0b23e88054b37e1ca6c23a518dc848e8/68747470733a2f2f6b616e61726965732d646f63732e6f73732d636e2d68616e677a686f752e616c6979756e63732e636f6d2f696d672f6769746875622d6c6f676f732f6d7973716c2e706e67" alt="MySQL" border="0" width="200" height="80" data-canonical-src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/github-logos/mysql.png" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a875fd92891d3ac9dcd6c78393b4bc3be3705d499b32078d945f93f739591b55/68747470733a2f2f6b616e61726965732d646f63732e6f73732d636e2d68616e677a686f752e616c6979756e63732e636f6d2f696d672f6769746875622d6c6f676f732f706f737467726573716c2e706e67"><img src="https://camo.githubusercontent.com/a875fd92891d3ac9dcd6c78393b4bc3be3705d499b32078d945f93f739591b55/68747470733a2f2f6b616e61726965732d646f63732e6f73732d636e2d68616e677a686f752e616c6979756e63732e636f6d2f696d672f6769746875622d6c6f676f732f706f737467726573716c2e706e67" alt="PostgreSQL 数据库" border="0" width="200" height="80" data-canonical-src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/github-logos/postgresql.png" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f386475de9d605f0d850cfbdd113ed0d5b954cdc9f58b9a687636f643eb7b898/68747470733a2f2f6b616e61726965732d646f63732e6f73732d636e2d68616e677a686f752e616c6979756e63732e636f6d2f696d672f6769746875622d6c6f676f732f696d70616c612e706e67"><img src="https://camo.githubusercontent.com/f386475de9d605f0d850cfbdd113ed0d5b954cdc9f58b9a687636f643eb7b898/68747470733a2f2f6b616e61726965732d646f63732e6f73732d636e2d68616e677a686f752e616c6979756e63732e636f6d2f696d672f6769746875622d6c6f676f732f696d70616c612e706e67" alt="阿帕奇 Impala" border="0" width="200" height="80" data-canonical-src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/github-logos/impala.png" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/df24c7be75f1c46d07a6abd03ba6b5cee06e1c412ac0e4c2ba9669cd4c34badb/68747470733a2f2f6b616e61726965732d646f63732e6f73732d636e2d68616e677a686f752e616c6979756e63732e636f6d2f696d672f6769746875622d6c6f676f732f6b796c696e2e706e67"><img src="https://camo.githubusercontent.com/df24c7be75f1c46d07a6abd03ba6b5cee06e1c412ac0e4c2ba9669cd4c34badb/68747470733a2f2f6b616e61726965732d646f63732e6f73732d636e2d68616e677a686f752e616c6979756e63732e636f6d2f696d672f6769746875622d6c6f676f732f6b796c696e2e706e67" alt="Apache Kylin" border="0" width="200" height="80" data-canonical-src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/github-logos/kylin.png" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/da96d62e3bcdde6fa3a6204274b7596714eb10241a80673521b5f92d331fab4f/68747470733a2f2f6b616e61726965732d646f63732e6f73732d636e2d68616e677a686f752e616c6979756e63732e636f6d2f696d672f6769746875622d6c6f676f732f6f7261636c652e706e67"><img src="https://camo.githubusercontent.com/da96d62e3bcdde6fa3a6204274b7596714eb10241a80673521b5f92d331fab4f/68747470733a2f2f6b616e61726965732d646f63732e6f73732d636e2d68616e677a686f752e616c6979756e63732e636f6d2f696d672f6769746875622d6c6f676f732f6f7261636c652e706e67" alt="甲骨文" border="0" width="200" height="80" data-canonical-src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/github-logos/oracle.png" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7942af4047467ca11f1609ed767991d5145abb9d396621d993c4abcf96984530/68747470733a2f2f6b616e61726965732d646f63732e6f73732d636e2d68616e677a686f752e616c6979756e63732e636f6d2f696d672f6769746875622d6c6f676f732f6169727461626c652e706e67"><img src="https://camo.githubusercontent.com/7942af4047467ca11f1609ed767991d5145abb9d396621d993c4abcf96984530/68747470733a2f2f6b616e61726965732d646f63732e6f73732d636e2d68616e677a686f752e616c6979756e63732e636f6d2f696d672f6769746875622d6c6f676f732f6169727461626c652e706e67" alt="空气桌" border="0" width="200" height="80" data-canonical-src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/github-logos/airtable.png" style="max-width: 100%;"></a>
+</p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想添加对更多数据库类型或数据引擎的支持，请随时</font></font><a href="https://docs.kanaries.net/support" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">联系我们</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发人员文档</font></font></h2><a id="user-content-developer-documentation" class="anchor" aria-label="永久链接：开发人员文档" href="#developer-documentation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RATH 软件处于开放 alpha 阶段。我们正在努力改进其代码和文档。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为客户端部分构建脚本</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>yarn install
+
+yarn workspace rath-client build</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="yarn install
+
+yarn workspace rath-client build" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您在项目中使用 RATH，请通过发送电子邮件至  </font></font><a href="/Kanaries/Rath/blob/master/support@kanaries.org"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">support@kanaries.org</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">告诉我们您使用它的目的。我们也欢迎您提供反馈。如果您发现错误或有功能请求，请创建问题。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们鼓励您查看我们的</font></font><a href="https://docs.kanaries.net" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RATH 文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以获取参考和指导。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">项目状态</font></font></h2><a id="user-content-project-status" class="anchor" aria-label="永久链接：项目状态" href="#project-status"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c697e8d0798554cdfa2341ffc7da1e7171e4e02c772da45073bccf42b08c970b/68747470733a2f2f7265706f62656174732e6178696f6d2e636f2f6170692f656d6265642f306161306466303036656136383537633032353635303433643339633262306461353338306639332e737667"><img src="https://camo.githubusercontent.com/c697e8d0798554cdfa2341ffc7da1e7171e4e02c772da45073bccf42b08c970b/68747470733a2f2f7265706f62656174732e6178696f6d2e636f2f6170692f656d6265642f306161306466303036656136383537633032353635303433643339633262306461353338306639332e737667" alt="Alt" title="Repobeats 分析图像" data-canonical-src="https://repobeats.axiom.co/api/embed/0aa0df006ea6857c02565043d39c2b0da5380f93.svg" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区</font></font></h2><a id="user-content-community" class="anchor" aria-label="固定链接：社区" href="#community"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://docs.kanaries.net/community" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kanaries 社区</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是一个可以公开讨论功能、表达想法或获取一般问题帮助的地方。通过以下渠道加入我们：</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的开发者社区是正在进行的 RATH 项目的骨干。我们诚挚地欢迎您</font></font><a href="/Kanaries/Rath/blob/master/join"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加入我们的社区</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，参与讨论并与我们保持联系以获取最新更新。</font></font></p>
+<ul dir="auto">
+<li><a href="https://join.slack.com/t/kanaries-community/shared_invite/zt-1pcosgbua-E_GBPawQOI79C41dPDyyvw" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加入我们的 Slack</font></font></a></li>
+<li><a href="https://discord.gg/Z4ngFWXz2U" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加入我们的 Discord</font></font></a></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">欢迎随意</font></font><a href="/Kanaries/Rath/blob/master/contribution-guide"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为 RATH 项目做出贡献</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，在我们的 GitHub 页面上提交任何问题，或者在我们的聊天中分享您的伟大新想法。</font></font></p>
+<p dir="auto"><a href="https://join.slack.com/t/kanaries-community/shared_invite/zt-1pcosgbua-E_GBPawQOI79C41dPDyyvw" rel="nofollow"><img src="https://camo.githubusercontent.com/ecbe218979fb51ae9924503f71303c9f1a2869919cd9e3746e04bd994885efd7/68747470733a2f2f6b616e61726965732d646f63732e6f73732d636e2d68616e677a686f752e616c6979756e63732e636f6d2f696d672f736c61636b2e706e67" alt="加入我们的 Slack 社区" width="200" data-canonical-src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/slack.png" style="max-width: 100%;"></a>
+<a href="https://discord.gg/Z4ngFWXz2U" rel="nofollow"><img src="https://camo.githubusercontent.com/7915a90738a3a63110caa2754169fd0566c0142ad191cee8e0d0ffd3421660ad/68747470733a2f2f6b616e61726965732d646f63732e6f73732d636e2d68616e677a686f752e616c6979756e63732e636f6d2f696d672f646973636f72642e706e67" alt="加入我们的 Discord 社区" width="200" data-canonical-src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/discord.png" style="max-width: 100%;"> </a></p>
+<blockquote>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请考虑</font><font style="vertical-align: inherit;">与边境开源社区分享您对</font></font><a href="https://kanaries.net" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kanaries RATH的经验或想法。这确实有帮助！</font></font></a><font style="vertical-align: inherit;"></font></p>
+</blockquote>
+<p dir="auto"><a href="https://reddit.com/submit?url=https://github.com/Kanaries/Rath&amp;title=OpenSource%20Augmented%20Analytic%20BI%20Solution:%20Automated%20Exploratory%20Data%20Analysis%20for%20Data%20Science" rel="nofollow"><img src="https://camo.githubusercontent.com/e1e5f0135a2efbfa6cfd64318f18091a875a2cd99a28cc391ef9520d2cfef486/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73686172652532306f6e2d7265646469742d7265643f7374796c653d666c61742d737175617265266c6f676f3d726564646974" alt="GitHub Repo 星星" data-canonical-src="https://img.shields.io/badge/share%20on-reddit-red?style=flat-square&amp;logo=reddit" style="max-width: 100%;"></a>
+<a href="https://news.ycombinator.com/submitlink?u=https://github.com/Kanaries/Rath" rel="nofollow"><img src="https://camo.githubusercontent.com/d48a9a408bf9c6b4fb49554a77ba1bd6b188f81cfdd486f0b0b908391743a7ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73686172652532306f6e2d6861636b65722532306e6577732d6f72616e67653f7374796c653d666c61742d737175617265266c6f676f3d79636f6d62696e61746f72" alt="GitHub Repo 星星" data-canonical-src="https://img.shields.io/badge/share%20on-hacker%20news-orange?style=flat-square&amp;logo=ycombinator" style="max-width: 100%;"></a>
+<a href="https://twitter.com/share?url=https://github.com/Kanaries/Rath&amp;text=OpenSource%20Augmented%20Analytic%20BI%20Solution:%20Automated%20Exploratory%20Data%20Analysis%20for%20Data%20Science" rel="nofollow"><img src="https://camo.githubusercontent.com/2c6c7cd66b92ba7615754dfeefe0fff4adb3adb677e7cd4bcd13b9bc5a06437f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73686172652532306f6e2d747769747465722d3033413946343f7374796c653d666c61742d737175617265266c6f676f3d74776974746572" alt="GitHub Repo 星星" data-canonical-src="https://img.shields.io/badge/share%20on-twitter-03A9F4?style=flat-square&amp;logo=twitter" style="max-width: 100%;"></a>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://github.com/Kanaries/Rath" rel="nofollow"><img src="https://camo.githubusercontent.com/0902c8f686eb9370589515f258c48053a2167953a31b9da37b11faa3ad10ee51/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73686172652532306f6e2d66616365626f6f6b2d3139373644323f7374796c653d666c61742d737175617265266c6f676f3d66616365626f6f6b" alt="GitHub Repo 星星" data-canonical-src="https://img.shields.io/badge/share%20on-facebook-1976D2?style=flat-square&amp;logo=facebook" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/shareArticle?url=https://github.com/Kanaries/Rath&amp;title=OpenSource%20Augmented%20Analytic%20BI%20Solution:%20Automated%20Exploratory%20Data%20Analysis%20for%20Data%20Science" rel="nofollow"><img src="https://camo.githubusercontent.com/2d42bb7f2edcc34cc2a10cee7715999ee3d35fff9a8fa498aaa40f3768eb2bdc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73686172652532306f6e2d6c696e6b6564696e2d3339343941423f7374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e" alt="GitHub Repo 星星" data-canonical-src="https://img.shields.io/badge/share%20on-linkedin-3949AB?style=flat-square&amp;logo=linkedin" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2><a id="user-content-contributions" class="anchor" aria-label="永久链接：贡献" href="#contributions"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请查看</font></font><a href="https://docs.kanaries.net/community/contribution-guide" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对 RATH 做出贡献的指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+以获取有关如何进行的指导。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">感谢所有贡献者❤️</font></font></p>
+<a href="https://github.com/kanaries/rath/graphs/contributors">
+  <img src="https://camo.githubusercontent.com/26d5ca1b3aeaa8cdc503f81d141900cea07f6e5da11c4896fd1fd27d2280bf38/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d6b616e61726965732f72617468" data-canonical-src="https://contrib.rocks/image?repo=kanaries/rath" style="max-width: 100%;">
+</a>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">许可证（AGPL）</font></font></h2><a id="user-content-license-agpl" class="anchor" aria-label="永久链接：许可证（AGPL）" href="#license-agpl"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rath 是一款自动化数据分析和可视化工具（auto-EDA）。它是一款根据 AGPL 许可的免费开源软件。</font></font></p>
+<hr>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">品牌图标是根据其版权许可而授权的。
+</font></font><br></p>
+<p align="center" dir="auto">
+  <br>
+  <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">享受数据带来的乐趣！</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ❤️
+</font></font></p>
+<p dir="auto"><a href="#introduction"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⬆ 返回顶部</font></font></a></p>
+</article></div>
