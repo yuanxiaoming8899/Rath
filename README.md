@@ -98,81 +98,21 @@
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://docs.kanaries.net/rath/prepare-data/data-profiling#data-profiling-with-rath" target="_blank">
           
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f646174612d70726f66696c696e672d726561646d652e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/e79c76e3c1ca10a96fc24c7465eb2ab2af9c0c03b470434a38ad5deb79112da4/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f646174612d70726f66696c696e672d726561646d652e676966" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="814" height="462"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="播放 68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f646174612d70726f66696c696e672d726561646d652e676966" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="播放 68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f646174612d70726f66696c696e672d726561646d652e676966">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="在新窗口中打开 68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f646174612d70726f66696c696e672d726561646d652e676966" class="AnimatedImagePlayer-button" href="https://docs.kanaries.net/rath/prepare-data/data-profiling#data-profiling-with-rath" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></p>
+       
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据准备</font></font></h3><a id="user-content-data-preparation" class="anchor" aria-label="固定链接：数据准备" href="#data-preparation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RATH 支持使用类似预测转换操作的黑魔法进行数据准备。它将自动生成转换和清理等建议。</font></font></p>
 <p dir="auto"><animated-image data-catalyst=""><a href="https://docs.kanaries.net/rath/prepare-data/data-transformation" rel="nofollow" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/45a0e590fcdcc69bc40a3c3fea33bb1b6d84e40acc8efeb95c1d56766fb46495/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f746578742d7061747465726e2d67656e6572616c2e676966" alt="" data-canonical-src="https://docs-us.oss-us-west-1.aliyuncs.com/images/readme/text-pattern-general.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://docs.kanaries.net/rath/prepare-data/data-transformation" target="_blank">
           
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f746578742d7061747465726e2d67656e6572616c2e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/45a0e590fcdcc69bc40a3c3fea33bb1b6d84e40acc8efeb95c1d56766fb46495/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f746578742d7061747465726e2d67656e6572616c2e676966" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="814" height="449"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="播放 68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f746578742d7061747465726e2d67656e6572616c2e676966" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="播放 68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f746578742d7061747465726e2d67656e6572616c2e676966">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="在新窗口中打开 68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f746578742d7061747465726e2d67656e6572616c2e676966" class="AnimatedImagePlayer-button" href="https://docs.kanaries.net/rath/prepare-data/data-transformation" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></p>
+      
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一键式自动化数据分析，带可视化</font></font></h3><a id="user-content-one-click-automated-data-analysis-with-visualizations" class="anchor" aria-label="永久链接：一键式自动化数据分析与可视化" href="#one-click-automated-data-analysis-with-visualizations"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">增强型分析引擎，用于发现模式、见解和因果关系。只需单击一下即可完全自动化地探索和可视化数据集。</font></font></p>
 <p dir="auto"><animated-image data-catalyst=""><a href="https://docs.kanaries.net/rath/explore-data/automated-data-insight" rel="nofollow" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/c64eb2ccc18b9959bea21377a6868eac58765cf45357456220fcab1d0b76fdba/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f6175746f70696c6f742e676966" alt="" data-canonical-src="https://docs-us.oss-us-west-1.aliyuncs.com/images/readme/autopilot.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://docs.kanaries.net/rath/explore-data/automated-data-insight" target="_blank">
           
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f6175746f70696c6f742e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/c64eb2ccc18b9959bea21377a6868eac58765cf45357456220fcab1d0b76fdba/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f6175746f70696c6f742e676966" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="814" height="443"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="播放 68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f6175746f70696c6f742e676966" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="播放 68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f6175746f70696c6f742e676966">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="在新窗口中打开 68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f6175746f70696c6f742e676966" class="AnimatedImagePlayer-button" href="https://docs.kanaries.net/rath/explore-data/automated-data-insight" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></p>
+      
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 RATH 作为数据探索的副驾驶</font></font></h3><a id="user-content-use-rath-as-your-copilot-in-data-exploration" class="anchor" aria-label="永久链接：使用 RATH 作为数据探索的副驾驶" href="#use-rath-as-your-copilot-in-data-exploration"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RATH 将作为您在数据科学方面的副驾驶，了解您的意图并生成相关建议。</font></font></p>
 <details open="" class="details-reset border rounded-2">
@@ -195,53 +135,13 @@
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/3760d28024c318c859eb4739db5ee95eeac3d2849be9bc9660f3156e847d1ad2/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f61736b2d726174682e676966" target="_blank">
           
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f61736b2d726174682e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/3760d28024c318c859eb4739db5ee95eeac3d2849be9bc9660f3156e847d1ad2/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f61736b2d726174682e676966" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="814" height="458"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play 68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f61736b2d726174682e676966" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play 68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f61736b2d726174682e676966">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open 68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f61736b2d726174682e676966 in new window" class="AnimatedImagePlayer-button" href="https://camo.githubusercontent.com/3760d28024c318c859eb4739db5ee95eeac3d2849be9bc9660f3156e847d1ad2/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f61736b2d726174682e676966" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></p>
+       
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过拖放操作手动探索您的数据：</font></font></h3><a id="user-content-manually-explore-your-data-with-drag-and-drop" class="anchor" aria-label="永久链接：通过拖放操作手动探索您的数据：" href="#manually-explore-your-data-with-drag-and-drop"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><animated-image data-catalyst=""><a href="https://docs.kanaries.net/rath/explore-data/explore-data-graphic-walker" rel="nofollow" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/c81b299e5f3ccaa49919fd59c18d52d2cee39740d0788cf17b308a4fb90b0894/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f677261706869632d77616c6b65722e676966" alt="使用类似 Tableau 的用户界面手动探索数据" data-canonical-src="https://docs-us.oss-us-west-1.aliyuncs.com/images/readme/graphic-walker.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://docs.kanaries.net/rath/explore-data/explore-data-graphic-walker" target="_blank">
           
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="Manually explore your data with a Tableau-like UI" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/c81b299e5f3ccaa49919fd59c18d52d2cee39740d0788cf17b308a4fb90b0894/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f677261706869632d77616c6b65722e676966" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="814" height="443"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Manually explore your data with a Tableau-like UI" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play Manually explore your data with a Tableau-like UI">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open Manually explore your data with a Tableau-like UI in new window" class="AnimatedImagePlayer-button" href="https://docs.kanaries.net/rath/explore-data/explore-data-graphic-walker" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></p>
+        
 <blockquote>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Manual Exploration 是一个独立的嵌入模块，你可以在自己的应用中独立使用，更多详细信息请参考 中的 README.md </font></font><code>packages/graphic-walker/README.md</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装 Graphic Walker</font></font></p>
@@ -266,27 +166,7 @@ npm i --save @kanaries/graphic-walker" tabindex="0" role="button">
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://docs.kanaries.net/rath/explore-data/data-painter" target="_blank">
           
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="Interactive data analysis by painting" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/2eac9ebbaa90967632306c921e53f96a6ce37911438bed1b9eef149b092782e8/68747470733a2f2f646f63732d75732e6f73732d75732d776573742d312e616c6979756e63732e636f6d2f696d616765732f726561646d652f646174612d7061696e7465722e676966" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="814" height="443"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Interactive data analysis by painting" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play Interactive data analysis by painting">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open Interactive data analysis by painting in new window" class="AnimatedImagePlayer-button" href="https://docs.kanaries.net/rath/explore-data/data-painter" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></p>
+       
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌅 因果分析（Alpha 阶段）</font></font></h3><a id="user-content--causal-analysis-alpha-stage" class="anchor" aria-label="永久链接：🌅 因果分析（Alpha 阶段）" href="#-causal-analysis-alpha-stage"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">因果分析可以定义为识别和检查变量之间的因果关系的方法，它有助于探索数据，创建更好的预测模型并做出商业决策。</font></font></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RATH 的因果分析功能包括：</font></font></p>
